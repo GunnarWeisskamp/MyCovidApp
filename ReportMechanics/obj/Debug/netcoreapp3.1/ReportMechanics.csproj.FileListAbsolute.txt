@@ -1,0 +1,14 @@
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\ReportMechanics.deps.json
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\ReportMechanics.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\bin\Debug\netcoreapp3.1\ReportMechanics.pdb
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.csprojAssemblyReference.cache
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.AssemblyInfoInputs.cache
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.AssemblyInfo.cs
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.csproj.CoreCompileInputs.cache
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.dll
+C:\Users\3402\OneDrive - Dialog Pty Ltd\Documents\Angular\Patient\ReportMechanics\obj\Debug\netcoreapp3.1\ReportMechanics.pdb

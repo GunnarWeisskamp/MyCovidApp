@@ -1,0 +1,43 @@
+READ ME GUNNAR NOTES ON APP
+
+Folder / Project Structure
+(A) APICall - Handles all the informational calls for the front end
+(B) APIUnitTest - Unit test against API functions
+(C) EntityRepo - Handles communication between database and APICall project
+(D) FrontEnd - Handles and holds all the front end code
+(E) MiddleWearUnitTest - Handles all the Unit test for the EntityRepo project
+(F) ReportMechanics - Used by all the Test projects to create end HTML reports
+(G) SeleniumTests - Runs front end selenium tests.
+
+Technologies / Techniques Used
+(A) Front End
+    (1) Angular version 9.1.7 (2) NPM version 6.14.8 (3) Rxjs (4) Angular material (5) Bootstrap
+    (6) LocalStorage (7) HttpInterceptor (8) Caching (9) Tokenisation
+
+(B) Middle wear
+    (1) .Net Core version 3.1 (2) Swagger (3) Async programming (3) Jwt authorisation 
+    (4) Custom authorisation attributes (5) Exception handling (6) Entity Framework
+    (7) LINQ
+
+(C) Testing Technologies and reporting
+    (1) NUnit (2) Moq testing (3) RestSharp (4) AventStack extent reports
+    (5) Selenium web driver
+
+(D) Back End (see database script in root folder to recreate the database)
+    (1) SQL Server (2) Table creation (3) Stored procedure creation (4) Function creation
+    (5) SQL Server error handling
+
+Comments / Opinions
+(A) While I have tried to use decent architecture patterns, in some areas (at time of writing)
+    I have used different techniques purely for learning which has impacted the overall style
+    of the architecture. 
+
+(B) In the front end there are areas where more compentization could be employed
+
+(C) Selunium test - At time of writing you will need to install Chrome version 84 to allow it to work :(
+    Which also means un installing any current version
+
+(D) Tests. At time of writing, I have not had time to create mechanics which would create / reset relevant
+    information for the tests
+
+(E) For the API tests make sure you have a seperate instance of the solutions API running
