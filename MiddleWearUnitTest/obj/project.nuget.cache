@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "99kABRYzuFOjpw773n9/T+4N6ExKUDkosjdri3vFuyJck6M6OQseVJtr3TZiBSbr/N9U93skIMDfA++d2F4Glw==",
+  "dgSpecHash": "DmrDMCjYtN5YxX803oF4pgVNBEAalzhfUliL7G+FWj/wjE24CWIoVprEKrHm3NiqRhoORxa2jxjR1tIxOw6qJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",

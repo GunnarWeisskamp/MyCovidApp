@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gAH2IEJYfvVGAOj74vDCqrV0VJgX71+rhH0XTiA9BZnLbhfQvFC5qm/U6hHYlLN2PTM5iOt5LP65+9354UQpYg==",
+  "dgSpecHash": "WkWe5jTNVZ//bM9mBVqN3AoF7Ls4Wk5MiRDgMTf5+5FRKXvwChc9wvAg+Ns4V1y+V0CJmOPyFYLkPCrjTO9YOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APICall\\APICall.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\APICall\\APICall.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\fromheaderattribute\\2.0.4\\fromheaderattribute.2.0.4.nupkg.sha512",

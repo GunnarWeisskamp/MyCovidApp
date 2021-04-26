@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oeat150k8AOtBLFC8Zbh2q0L0bQepb8IOP0GjljQIVPS3D5fa7Vg2rlXQkBHYhp/PRO2Ot99X91DGo0rHwo8sg==",
+  "dgSpecHash": "PQ5fIn3G9W6SyFIeO/Fbw/OqrXD7SRkkFfYhv/Hh0YXds0hYjZMZs0VaOvGUx7ZFRGEOAoJs2u6yv1dwBXsA4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\APINUnitTest\\APINUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

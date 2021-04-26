@@ -8060,11 +8060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\SeleniumTests\\SeleniumTests.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\SeleniumTests\\SeleniumTests.csproj",
       "projectName": "SeleniumTests",
-      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\SeleniumTests\\SeleniumTests.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\SeleniumTests\\SeleniumTests.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\SeleniumTests\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\SeleniumTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8080,8 +8080,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj": {
-              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\ReportMechanics\\ReportMechanics.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\ReportMechanics\\ReportMechanics.csproj"
             }
           }
         }

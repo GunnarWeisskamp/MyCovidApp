@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {}
+    "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+    "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
+        "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj",
         "projectName": "EntityRepo",
-        "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
+        "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj",
         "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\obj\\",
+        "outputPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
