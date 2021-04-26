@@ -9563,11 +9563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\APICall\\APICall.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APICall\\APICall.csproj",
       "projectName": "APICall",
-      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\APICall\\APICall.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APICall\\APICall.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\APICall\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APICall\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9583,8 +9583,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj": {
-              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\EntityRepo\\EntityRepo.csproj"
+            "C:\\Users\\3402\\source\\repos\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
             }
           }
         }

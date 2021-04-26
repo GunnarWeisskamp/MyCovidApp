@@ -7094,11 +7094,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\ReportMechanics\\ReportMechanics.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj",
       "projectName": "ReportMechanics",
-      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\ReportMechanics\\ReportMechanics.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\ReportMechanics\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\ReportMechanics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",

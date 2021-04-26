@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8GXVTYNJdoKg976DZB5aUOoP1F0iAafZrnS/yuJ+zSRKe4bYdTs7r3mCghBdPJCFEpkEsOfgEo6TxeloitD4w==",
+  "dgSpecHash": "g4be17U7SUGUpQtuVHWyVy5oC7BdtL3rxD6LamLUkk6z/skIEaerAak5zVWsdElPTqeko1VWZF+cXV7hkJvHpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidAppTwo\\SeleniumTests\\SeleniumTests.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\SeleniumTests\\SeleniumTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
