@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6jLIjS24J2F3d07ftdW8BgKxdmZZHKdufBtY2q8q6NoY/VbCwqFojqlJkrRxOQl/5qtMU9cM89U9dVJ/iaUhLQ==",
+  "dgSpecHash": "oeat150k8AOtBLFC8Zbh2q0L0bQepb8IOP0GjljQIVPS3D5fa7Vg2rlXQkBHYhp/PRO2Ot99X91DGo0rHwo8sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\APINUnitTest\\APINUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

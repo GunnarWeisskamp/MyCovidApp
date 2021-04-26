@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj": {}
+    "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj": {
+    "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj",
+        "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
         "projectName": "EntityRepo",
-        "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj",
+        "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
         "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\obj\\",
+        "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj": {
+    "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
         "projectName": "MiddleWearUnitTest",
-        "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
+        "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
         "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\MiddleWearUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\MiddleWearUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,8 +103,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj": {
-                "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj"
+              "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+                "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
               }
             }
           }

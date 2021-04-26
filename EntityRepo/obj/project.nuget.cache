@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBrPcEqVyu2dOcQ5O5E5yvHj6uFFhoiJfZvWpvnV/+dfu91EemNSjyLaean3mn6Gm+sxkrAGU7WSJrHt3Mi1QQ==",
+  "dgSpecHash": "VDjE1msfcuvVVk1NpAWzcfU5nWWNhAaBtKINBgFbg9aawga8k9ijFIw+9dAwGu5vWYemri/GlmI1gqvKNPnZTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

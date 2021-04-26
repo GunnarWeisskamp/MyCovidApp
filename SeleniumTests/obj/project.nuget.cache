@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgBsvC4ZHRgRKvzjL/9/sj4UKHvNMV3Nzulizn2atxqHXVNM7nb5saM0qd08nrli6rFs5KIA2zkZ3awJpM5J5w==",
+  "dgSpecHash": "Im08/n9iin2wtLGQKjf2kL5rkvrRmBg4v5lee4NmPaqEjze5MVHpgmKv2LcUX48IpDe7oMQIYDajP/4HTomUNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\SeleniumTests\\SeleniumTests.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\SeleniumTests\\SeleniumTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

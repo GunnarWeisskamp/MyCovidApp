@@ -6124,11 +6124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
       "projectName": "EntityRepo",
-      "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",

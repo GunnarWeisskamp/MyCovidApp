@@ -10014,11 +10014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\APINUnitTest\\APINUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
       "projectName": "APINUnitTest",
-      "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\APINUnitTest\\APINUnitTest.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\APINUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\APINUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10034,11 +10034,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj": {
-              "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\EntityRepo\\EntityRepo.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
             },
-            "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\ReportMechanics\\ReportMechanics.csproj": {
-              "projectPath": "C:\\Users\\3402\\OneDrive - Dialog Pty Ltd\\Documents\\Angular\\Patient\\ReportMechanics\\ReportMechanics.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidApp\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj"
             }
           }
         }
