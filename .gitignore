@@ -338,3 +338,12 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+APICall/obj/Debug/netcoreapp3.1/APICall.assets.cache
+APICall/.vs/APICall/DesignTimeBuild/.dtbcache.v2
+APICall/.vs/APICall/v16/.suo
+APICall/obj/Debug/netcoreapp3.1/APICall.assets.cache
+APICall/obj/Debug/netcoreapp3.1/APICall.csprojAssemblyReference.cache
+APINUnitTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp
+APINUnitTest/obj/Debug/netcoreapp3.1/APINUnitTest.csprojAssemblyReference.cache
+*.tmp
+*.cache
