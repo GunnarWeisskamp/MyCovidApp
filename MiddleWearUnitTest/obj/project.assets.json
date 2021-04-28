@@ -9969,11 +9969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
       "projectName": "MiddleWearUnitTest",
-      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\MiddleWearUnitTest\\MiddleWearUnitTest.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\MiddleWearUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\MiddleWearUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9989,8 +9989,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
-              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
             }
           }
         }

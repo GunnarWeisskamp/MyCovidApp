@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DgNGk5SSLnM2pQL7OZj2ZE/bh5Lfh0zJ81xlRvyS3XUi4e99tH7LmCQUiQbLem1lhpmIpZDY8NC/o0X95JLoQ==",
+  "dgSpecHash": "Q6xvijLNHCZDfdEsZ66lj4ediKznWUXw1/CnrkZhmCgZ2G0pniVsEMlFHIejC+ETBNkUTCX9vfBp/sGNDbA2XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\EntityRepo\\EntityRepo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

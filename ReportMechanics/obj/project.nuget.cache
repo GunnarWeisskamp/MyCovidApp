@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uEIUkv8NZ26/j7WeEwLIOQB7625GP0NTPxEPXsO/r82HsYmYSLl3ZsvnCmQxEaYn4pVJB9wgjtHfQnzdWIVTjw==",
+  "dgSpecHash": "fMOM99mRLCusCf9vAf73jh9VGj3BiVBoNvRz/L6EjNk8R71lkhy3IdNhiRNe7IiHZeCUgewaUENqW4KNgY12Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj",
+  "projectFilePath": "C:\\Users\\3402\\source\\repos\\CovidTwo\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3402\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\3402\\.nuget\\packages\\extentreports.core\\1.0.3\\extentreports.core.1.0.3.nupkg.sha512",
