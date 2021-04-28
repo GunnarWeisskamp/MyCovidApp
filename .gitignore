@@ -478,3 +478,12 @@ SeleniumTests/obj/Debug/netcoreapp3.1/SeleniumTests.pdb
 SeleniumTests/obj/project.assets.json
 SeleniumTests/obj/project.nuget.cache
 SeleniumTests/obj/SeleniumTests.csproj.nuget.dgspec.json
+APINUnitTest/obj/Debug/netcoreapp3.1/APINUnitTest.assets.cache
+APINUnitTest/obj/Debug/netcoreapp3.1/APINUnitTest.csprojAssemblyReference.cache
+EntityRepo/obj/Debug/netcoreapp3.1/EntityRepo.assets.cache
+EntityRepo/obj/Debug/netcoreapp3.1/EntityRepo.csprojAssemblyReference.cache
+MiddleWearUnitTest/obj/Debug/netcoreapp3.1/MiddleWearUnitTest.assets.cache
+MiddleWearUnitTest/obj/Debug/netcoreapp3.1/MiddleWearUnitTest.csprojAssemblyReference.cache
+ReportMechanics/obj/Debug/netcoreapp3.1/ReportMechanics.assets.cache
+SeleniumTests/obj/Debug/netcoreapp3.1/SeleniumTests.assets.cache
+SeleniumTests/obj/Debug/netcoreapp3.1/SeleniumTests.csprojAssemblyReference.cache
