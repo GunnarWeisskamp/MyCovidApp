@@ -10014,11 +10014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
       "projectName": "APINUnitTest",
-      "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
+      "projectPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\APINUnitTest\\APINUnitTest.csproj",
       "packagesPath": "C:\\Users\\3402\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\APINUnitTest\\obj\\",
+      "outputPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\APINUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\3402\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10034,11 +10034,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\3402\\source\\repos\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
-              "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\EntityRepo\\EntityRepo.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\EntityRepo\\EntityRepo.csproj"
             },
-            "C:\\Users\\3402\\source\\repos\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj": {
-              "projectPath": "C:\\Users\\3402\\source\\repos\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj"
+            "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj": {
+              "projectPath": "C:\\Users\\3402\\source\\repos\\CovidOne\\MyCovidApp\\ReportMechanics\\ReportMechanics.csproj"
             }
           }
         }
