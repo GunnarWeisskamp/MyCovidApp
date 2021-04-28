@@ -1,6 +1,0 @@
-{
-	"BaseURL": "https://localhost:44369/api",
-	"IDToTest": "1",
-	"FirstNamePositive": "Fred",
-	"FirstNameNegative": "sdf"
-}
