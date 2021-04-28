@@ -347,3 +347,4 @@ APINUnitTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp
 APINUnitTest/obj/Debug/netcoreapp3.1/APINUnitTest.csprojAssemblyReference.cache
 *.tmp
 *.cache
+APICall/.vs/APICall/v16/TestStore/8/001.testlog
