@@ -43,6 +43,23 @@ namespace APICall.Controllers
             return ret;
         }
 
+
+        [HttpGet]
+        [Route("GetAllPatients")]
+        public async Task<IActionResult> GetAllPatients()
+        {
+            IActionResult ret;
+            try
+            {
+                var allPatDetails = await _patDet.GetAllPatients();
+                ret = StatusCode(StatusCodes.Status200OK, allPatDetails);
+            }
+            catch (Exception ex)
+            {
+                ret = StatusCode(StatusCodes.Status500InternalServerError, "An error has happened. Please contact admin stating the following: " + ex.Message);
+            }
+            return ret;
+        }
         [HttpGet]
         [Route("GetPatientDetailsByFirstNameAndLastName")]
         public async Task<IActionResult> GetPatientDetailsByFirstNameAndLastName(string firstName, string lastName)

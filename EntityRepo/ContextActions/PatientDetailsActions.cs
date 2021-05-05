@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using EntityRepo.ContextInterfaces;
 using EntityRepo.CovidAppModels;
@@ -26,6 +27,15 @@ namespace EntityRepo.ContextActions
                 var patDetails = context.PatientDetails.Include(hos => hos.PatientHospital).
                     Include(kin => kin.PatientNextOfKins).Include(add => add.PatientAddresses).
                     Where(a => a.FirstName == firstName && a.LastName == lastName).SingleOrDefaultAsync();
+                return await patDetails;
+            }
+        }
+
+        public async Task<List<PatientDetails>> GetAllPatients()
+        {
+            using (var context = new CovidAppContext())
+            {
+                var patDetails = context.PatientDetails.ToListAsync();
                 return await patDetails;
             }
         }

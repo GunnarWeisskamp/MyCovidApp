@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using EntityRepo.CovidAppModels;
 
 namespace EntityRepo.ContextInterfaces
@@ -7,5 +8,6 @@ namespace EntityRepo.ContextInterfaces
     {
         Task<PatientDetails> GetPatientHospitalAddressAndNextOfKinDetailsById(int id);
         Task<PatientDetails> GetPatientDetailsByFirstNameAndLastName(string firstName, string lastName);
+        Task<List<PatientDetails>> GetAllPatients();
     }
 }
